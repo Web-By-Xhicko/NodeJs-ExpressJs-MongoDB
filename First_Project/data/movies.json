@@ -1,0 +1,82 @@
+[
+   {
+      "id": "f86b8287-173c-4c71-853c-68e41b3cda11",
+      "title": "The Shawshank Redemption",
+      "year": 1994,
+      "genre": "Drama",
+      "rating": 9.3
+    },
+    
+    {
+      "id": "caac87a2-e27e-467f-b028-453f7aa6517d",
+      "title": "The Godfather",
+      "year": 1972,
+      "genre": "Crime, Drama",
+      "rating": 9.2
+    },
+    
+    {
+      "id": "ac5b5be8-3df1-4391-8cf9-1e01b176eef0",
+      "title": "The Dark Knight",
+      "year": 2008,
+      "genre": "Action, Crime, Drama",
+      "rating": 9.0
+    },
+    
+    {
+      "id": "8a1e5c05-1322-4bf3-bfb0-88f46b6ac4de",
+      "title": "Schindler's List",
+      "year": 1993,
+      "genre": "Biography, Drama, History",
+      "rating": 8.9
+    },
+    
+    {
+      "id": "e537b758-7470-4de0-8d9e-ee4244423df2",
+      "title": "The Lord of the Rings: The Return of the King",
+      "year": 2003,
+      "genre": "Action, Adventure, Drama",
+      "rating": 8.9
+    },
+    
+    {
+      "id": "123d588e-df49-4ab8-b291-89dc1af4610b",
+      "title": "Pulp Fiction",
+      "year": 1994,
+      "genre": "Crime, Drama",
+      "rating": 8.9
+    },
+    
+    {
+      "id": "7f0f0b49-42f2-42ab-a3c3-1fc07b8e3a41",
+      "title": "Forrest Gump",
+      "year": 1994,
+      "genre": "Drama, Romance",
+      "rating": 8.8
+    },
+    
+    {
+      "id": "3e167be3-1548-4a0e-b3a5-f0760ccf6ec6",
+      "title": "Inception",
+      "year": 2010,
+      "genre": "Action, Adventure, Sci-Fi",
+      "rating": 8.8
+    },
+    
+    {
+      "id": "899d6fd3-5a67-4c30-880f-d8a6608a3a2d",
+      "title": "The Matrix",
+      "year": 1999,
+      "genre": "Action, Sci-Fi",
+      "rating": 8.7
+    },
+    
+    {
+      "id": "7b5c8b0d-7ff2-4784-a768-8dddc37b32fc",
+      "title": "Fight Club",
+      "year": 1999,
+      "genre": "Drama",
+      "rating": 8.8
+    }
+    
+]
