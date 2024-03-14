@@ -20,6 +20,7 @@ module.exports = (req,res) => {
          res.write(JSON.stringify({
             title: "Not Found",
             message:"Movie Not Found"}))
+         res.end()
       }
       else{
          req.movies.splice(index, 1)
@@ -27,5 +28,11 @@ module.exports = (req,res) => {
          res.writeHead(204, {"Content-Type": "application/json"})
          res.end(JSON.stringify(req.movies))
       }
+   }
+   else{
+      res.writeHead(404, {"Content-Type" : "application/json"})
+      res.end(JSON.stringify({
+         title: "Bad Request",
+         message:"Route Not Found"}))
    }
 }
